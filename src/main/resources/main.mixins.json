@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+      "de.nwex.vanillareply.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
