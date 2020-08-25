@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# vanillaReply
 
-## Setup
+Reply to vanilla direct messages using /r
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+(requires fabric mod loader)
 
-## License
+## Download
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Go to [releases](https://github.com/networkException/vanillaReply/releases/) and download the latest release for your minecraft version
